@@ -22,8 +22,8 @@ I love to learn and build new, creative, and artistic projects.
 
   
 ## 📚 Websites I participated in
-https://safecloud.club
-https://voltrade.xyz
+> https://safecloud.club
+> https://voltrade.xyz
 
 
 ## 🚀 I’m eager to join new projects  
