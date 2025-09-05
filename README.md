@@ -22,9 +22,9 @@ I love to learn and build new, creative, and artistic projects.
 
   
 ## 📚 Websites I participated in
+
 > https://safecloud.club
 > https://voltrade.xyz
-
 
 ## 🚀 I’m eager to join new projects  
 I'm always open to collaborating on cool and meaningful software.
