@@ -41,7 +41,7 @@ When I’m not coding, you’ll find me Crafting Synths and midi controlers and 
 
 ## 📫 Contact Me
 
-📧 cgermain@student.42.fr
+📧 charlygmn.dev@gmail.com
 
 ---
 
