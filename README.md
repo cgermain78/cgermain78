@@ -21,10 +21,9 @@ I love to learn and build new, creative, and artistic projects.
 - TypeScript
 
   
-## 📚 Websites I Participated In
+## 📚 Websites I Made
 
-- [SafeCloud](https://safecloud.club)
-- [VolTrade](https://voltrade.xyz)
+- [safecloud.club](https://safecloud.club)
 
 ## 🚀 I’m eager to join new projects  
 I'm always open to collaborating on cool and meaningful software.
